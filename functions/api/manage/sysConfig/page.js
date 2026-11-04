@@ -105,7 +105,7 @@ export async function getPageConfig(db, env) {
             label_en: 'Logo Link',
             placeholder: 'https://t.me/WriteAllNight',
             tooltip: '点击Logo时跳转的链接，留空则使用默认链接',
-            tooltip_en: 'URL to navigate when clicking the logo. Leave empty for default GitHub link',
+            tooltip_en: 'URL to navigate when clicking the logo. Leave empty for default link',
             category: '全局设置',
             category_en: 'Global Settings',
         },
